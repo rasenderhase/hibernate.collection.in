@@ -1,5 +1,7 @@
 # Hibernate many-to-many collection demo project
 
+![Java CI with Gradle](https://github.com/rasenderhase/hibernate.collection.in/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 In the past I had some trouble with a many-to-many collection mapping
 that I was selecting using the `in` statement.
 
